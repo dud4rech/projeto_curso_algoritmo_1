@@ -1,5 +1,4 @@
 
-
     function acaoBotao(){
         var numero1, numero2, resultado, operacao
         numero1 = prompt("Digite o valor 1")
